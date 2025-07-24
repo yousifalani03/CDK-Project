@@ -51,6 +51,7 @@ The key files for this project are inside the `bin/` and `lib/` folders:
 npm install
 cdk bootstrap
 cdk deploy --all
+```
 
 ---
 
@@ -61,3 +62,4 @@ cdk deploy --all
 - Deploying **EC2** and **RDS** into isolated, secure private subnets
 - Connecting and reusing resources across multiple stacks using custom props
 - Organizing a CDK project with clear, modular components
+
