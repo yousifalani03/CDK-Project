@@ -52,7 +52,9 @@ npm install
 cdk bootstrap
 cdk deploy --all
 
-## 🧠 What I Learned
+---
+
+### 🧠 What I Learned
 
 - How to write infrastructure as code using **AWS CDK** and **TypeScript**
 - How to structure a **multi-AZ architecture** with public and private subnets
